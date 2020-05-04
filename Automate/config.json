@@ -1,0 +1,17 @@
+{
+  "AutomateShippingBin": true,
+  "PullGemstonesFromJunimoHuts": false,
+  "AutomationInterval": 60,
+  "Controls": {
+    "ToggleOverlay": "U"
+  },
+  "ConnectorNames": [
+    "Gravel Path",
+    "Wood Path",
+    "Workbench"
+  ],
+  "ModCompatibility": {
+    "AutoGrabberMod": true,
+    "BetterJunimos": true
+  }
+}
