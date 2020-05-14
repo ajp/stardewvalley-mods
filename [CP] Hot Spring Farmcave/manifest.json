@@ -1,0 +1,13 @@
+{
+   "Name": "Hot Spring Farmcave",
+   "Author": "DustBeauty",
+   "Version": "1.2",
+   "Description": "Hot spring farmcave with waterfalls and hot spring.",
+   "UniqueID": "Hesper.HotSpringFarmcave",
+   "MinimumApiVersion": "2.8.2",
+   "UpdateKeys": [ "Nexus:5849" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.6"
+   }
+}
