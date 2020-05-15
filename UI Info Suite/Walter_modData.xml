@@ -12,7 +12,7 @@
   <option name="DisplayCalendarAndBillboard">True</option>
   <option name="ShowCropAndBarrelTooltip">True</option>
   <option name="ShowItemEffectRanges">True</option>
-  <option name="ShowExtraItemInformation">True</option>
+  <option name="ShowExtraItemInformation">False</option>
   <option name="ShowTravelingMerchant">True</option>
   <option name="ShowHarvestPricesInShop">True</option>
   <option name="ShowWhenNewRecipesAreAvailable">True</option>
