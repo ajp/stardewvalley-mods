@@ -9,8 +9,8 @@
     "ClearDeadCrops": true
   },
   "JunimoHuts": {
-    "MaxJunimos": 3,
-    "MaxRadius": 8,
+    "MaxJunimos": 8,
+    "MaxRadius": 12,
     "AvailibleAfterCommunityCenterComplete": true,
     "AvailibleImmediately": false,
     "ReducedCostToConstruct": true,
@@ -18,9 +18,9 @@
   },
   "JunimoImprovements": {
     "CanWorkInRain": true,
-    "CanWorkInWinter": false,
-    "CanWorkInEvenings": false,
-    "WorkFaster": false,
+    "CanWorkInWinter": true,
+    "CanWorkInEvenings": true,
+    "WorkFaster": true,
     "AvoidHarvestingFlowers": true,
     "AvoidPlantingCoffee": true
   },
