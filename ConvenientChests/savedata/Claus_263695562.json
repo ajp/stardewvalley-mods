@@ -1,0 +1,14 @@
+{
+  "Version": "1.5.1",
+  "ChestEntries": [
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "59, 17"
+      },
+      "AcceptedItems": {}
+    }
+  ]
+}
