@@ -1,5 +1,5 @@
 {
-  "WeatherForYesterday": "Sunny",
+  "WeatherForYesterday": "Lightning",
   "LNOSCounter": {
     "Beach forage area 3": 1,
     "Summit forage area 2": 1,
@@ -62,7 +62,7 @@
       "Tile": "15, 26",
       "Type": "Item",
       "ID": 49,
-      "DaysUntilExpire": 44,
+      "DaysUntilExpire": 20,
       "SpawnTime": 600,
       "ConfigItem": {
         "Category": "weapon",
@@ -76,7 +76,7 @@
       "Tile": "60, 148",
       "Type": "Item",
       "ID": 15,
-      "DaysUntilExpire": 44,
+      "DaysUntilExpire": 20,
       "SpawnTime": 600,
       "ConfigItem": {
         "Category": "weapon",

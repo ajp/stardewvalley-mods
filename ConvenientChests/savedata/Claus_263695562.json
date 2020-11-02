@@ -4,9 +4,135 @@
     {
       "Address": {
         "LocationType": "Normal",
+        "LocationName": "FarmHouse",
+        "BuildingName": "",
+        "Tile": "1, 9"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "45, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "47, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "46, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "48, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "49, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "51, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "50, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "52, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "53, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "54, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "55, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
         "Tile": "59, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Town",
+        "BuildingName": "",
+        "Tile": "95, 87"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Mine",
+        "BuildingName": "",
+        "Tile": "18, 4"
       },
       "AcceptedItems": {}
     }
