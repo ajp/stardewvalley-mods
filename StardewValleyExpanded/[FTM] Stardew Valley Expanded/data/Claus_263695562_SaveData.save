@@ -1,5 +1,5 @@
 {
-  "WeatherForYesterday": "Lightning",
+  "WeatherForYesterday": "Debris",
   "LNOSCounter": {
     "Beach forage area 3": 1,
     "Summit forage area 2": 1,
@@ -54,34 +54,6 @@
       "DaysUntilExpire": 0,
       "SpawnTime": 600,
       "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Railroad",
-      "Name": "weapon:Rapier",
-      "Tile": "15, 26",
-      "Type": "Item",
-      "ID": 49,
-      "DaysUntilExpire": 20,
-      "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "weapon",
-        "Name": "Rapier"
-      },
-      "MonType": null
-    },
-    {
-      "MapName": "ForestWest",
-      "Name": "weapon:Forest Sword",
-      "Tile": "60, 148",
-      "Type": "Item",
-      "ID": 15,
-      "DaysUntilExpire": 20,
-      "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "weapon",
-        "Name": "Forest Sword"
-      },
       "MonType": null
     },
     {
@@ -277,28 +249,6 @@
       "Tile": "22, 76",
       "Type": "Forage",
       "ID": 104,
-      "DaysUntilExpire": 0,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Summit",
-      "Name": null,
-      "Tile": "21, 25",
-      "Type": "Forage",
-      "ID": 109,
-      "DaysUntilExpire": 0,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Beach",
-      "Name": null,
-      "Tile": "3, 6",
-      "Type": "Forage",
-      "ID": 372,
       "DaysUntilExpire": 0,
       "SpawnTime": 600,
       "ConfigItem": null,
