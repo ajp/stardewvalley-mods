@@ -1,5 +1,5 @@
 {
-  "OpenMenuKey": "P",
+  "OpenMenuKey": "O",
   "FreezeTimeKey": "None",
   "GrowTreeKey": "NumPad1",
   "GrowCropsKey": "NumPad2",
@@ -48,7 +48,7 @@
   "FastTapper": false,
   "FastWoodChipper": false,
   "FastWormBin": false,
-  "AlwaysGiveGift": false,
+  "AlwaysGiveGift": true,
   "NoFriendshipDecay": false,
   "DurableFences": false,
   "InstantBuild": false,
