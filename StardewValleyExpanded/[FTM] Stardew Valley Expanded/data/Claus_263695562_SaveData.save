@@ -19,7 +19,9 @@
     "Treasure Chest Spawns": 8,
     "Forest Sword Spawn": 1,
     "Rapier Spawn": 1,
-    "Grandpa's Shed Logs": 2
+    "Grandpa's Shed Logs": 2,
+    "Forest forage area 3": 1,
+    "LostWoods forage area 5": 1
   },
   "ExistingObjectLocations": {},
   "SavedObjects": [
@@ -203,28 +205,6 @@
       "MapName": "ForestWest",
       "Name": null,
       "Tile": "102, 89",
-      "Type": "Forage",
-      "ID": 109,
-      "DaysUntilExpire": 0,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "ForestWest",
-      "Name": null,
-      "Tile": "61, 150",
-      "Type": "Forage",
-      "ID": 109,
-      "DaysUntilExpire": 0,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "ForestWest",
-      "Name": null,
-      "Tile": "59, 147",
       "Type": "Forage",
       "ID": 109,
       "DaysUntilExpire": 0,

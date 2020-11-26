@@ -370,6 +370,15 @@
       "Address": {
         "LocationType": "Building",
         "LocationName": "Farm",
+        "BuildingName": "Barnbf3e9b04-a409-4f95-b0c0-155733a41949",
+        "Tile": "4, 3"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Building",
+        "LocationName": "Farm",
         "BuildingName": "SlimeHutche4f9948d-5fb1-4a17-9291-5cb115a1605b",
         "Tile": "3, 4"
       },
@@ -381,6 +390,15 @@
         "LocationName": "Town",
         "BuildingName": "",
         "Tile": "95, 87"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Beach",
+        "BuildingName": "",
+        "Tile": "88, 35"
       },
       "AcceptedItems": {}
     },
