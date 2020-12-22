@@ -24,52 +24,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "59, 17"
-      },
-      "AcceptedItems": {
-        "Object": "287,286,288,691,695,687,692,686,694,693",
-        "Tool": "12,5,6,7,273"
-      }
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "55, 17"
-      },
-      "AcceptedItems": {
-        "Object": "336,384,378,334,382,338,380,787,337,386,335,390"
-      }
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "54, 17"
-      },
-      "AcceptedItems": {
-        "Object": "333,411,326,325,298,645,324,746,293,621,599,323,322,409,407,415,329,401,341,331,328,405"
-      }
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "53, 17"
-      },
-      "AcceptedItems": {
-        "Object": "330,771,709,390,388"
-      }
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "52, 17"
+        "Tile": "60, 76"
       },
       "AcceptedItems": {}
     },
@@ -78,7 +33,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "50, 17"
+        "Tile": "67, 20"
       },
       "AcceptedItems": {}
     },
@@ -87,27 +42,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "51, 17"
-      },
-      "AcceptedItems": {}
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "49, 17"
-      },
-      "AcceptedItems": {
-        "Object": "541,538,66,62,540,570,539,542,566,72,543,86,60,544,577,565,82,545,84,546,561,569,547,573,70,549,548,563,550,554,571,551,552,567,574,555,553,575,560,564,556,557,74,559,80,64,568,576,572,578,558,562,68"
-      }
-    },
-    {
-      "Address": {
-        "LocationType": "Normal",
-        "LocationName": "Farm",
-        "BuildingName": "",
-        "Tile": "48, 17"
+        "Tile": "47, 17"
       },
       "AcceptedItems": {}
     },
@@ -128,7 +63,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "47, 17"
+        "Tile": "48, 17"
       },
       "AcceptedItems": {}
     },
@@ -137,7 +72,18 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "45, 17"
+        "Tile": "49, 17"
+      },
+      "AcceptedItems": {
+        "Object": "541,538,66,62,540,570,539,542,566,72,543,86,60,544,577,565,82,545,84,546,561,569,547,573,70,549,548,563,550,554,571,551,552,567,574,555,553,575,560,564,556,557,74,559,80,64,568,576,572,578,558,562,68"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "51, 17"
       },
       "AcceptedItems": {}
     },
@@ -146,7 +92,70 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "60, 76"
+        "Tile": "50, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "52, 17"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "53, 17"
+      },
+      "AcceptedItems": {
+        "Object": "330,771,709,390,388"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "54, 17"
+      },
+      "AcceptedItems": {
+        "Object": "333,411,326,325,298,645,324,746,293,621,599,323,322,409,407,415,329,401,341,331,328,405"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "55, 17"
+      },
+      "AcceptedItems": {
+        "Object": "336,384,378,334,382,338,380,787,337,386,335,390"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "59, 17"
+      },
+      "AcceptedItems": {
+        "Object": "287,286,288,691,695,687,692,686,694,693",
+        "Tool": "12,5,6,7,273"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "156, 47"
       },
       "AcceptedItems": {}
     },
@@ -363,6 +372,24 @@
         "LocationName": "Farm",
         "BuildingName": "Barn5b9843ea-b1bb-45e2-a528-00a3549dc4d6",
         "Tile": "4, 3"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Building",
+        "LocationName": "Farm",
+        "BuildingName": "Coop8c8821ff-6c6a-49c1-a375-f93fb232b592",
+        "Tile": "1, 4"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Building",
+        "LocationName": "Farm",
+        "BuildingName": "Coop8c8821ff-6c6a-49c1-a375-f93fb232b592",
+        "Tile": "21, 7"
       },
       "AcceptedItems": {}
     },
