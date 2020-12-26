@@ -4,7 +4,7 @@
   "AddOrganizePlayerInventoryButton": true,
   "Range": "Unlimited",
   "Controls": {
-    "Toggle": "C",
+    "Toggle": "B",
     "PrevChest": "Left, LeftShoulder",
     "NextChest": "Right, RightShoulder",
     "PrevCategory": "Up, LeftTrigger",

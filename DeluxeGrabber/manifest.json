@@ -1,10 +1,10 @@
 ﻿{
-   "Name": "Deluxe Auto-Grabber",
+   "Name": "DeluxeGrabber",
    "Author": "stokastic",
-   "Version": "2.5.2-unofficial.4-mizzion",
+   "Version": "2.5.2-unofficial.5-Strobe",
    "Description": "Allows use of autograbber for coops, crops, and forage",
    "UniqueID": "stokastic.DeluxeGrabber",
    "EntryDll": "DeluxeGrabber.dll",
-   "MinimumApiVersion": "3.0.0",
+   "MinimumApiVersion": "2.7",
    "UpdateKeys": [ "Nexus:2462" ]
 }

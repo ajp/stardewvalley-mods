@@ -5,15 +5,12 @@
     "ToggleOverlay": "U"
   },
   "ConnectorNames": [
-    "Gravel Path",
-    "Crystal Floor",
-    "Crystal Path",
-    "Wood Path",
     "Workbench"
   ],
   "ModCompatibility": {
     "AutoGrabberMod": true,
-    "BetterJunimos": true
+    "BetterJunimos": true,
+    "WarnForMissingBridgeMod": true
   },
   "MachineOverrides": {
     "ShippingBin": {
