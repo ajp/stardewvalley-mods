@@ -12,6 +12,15 @@
     },
     {
       "Address": {
+        "LocationType": "Normal",
+        "LocationName": "FarmHouse",
+        "BuildingName": "",
+        "Tile": "10, 13"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
         "LocationType": "Refrigerator",
         "LocationName": "FarmHouse",
         "BuildingName": null,

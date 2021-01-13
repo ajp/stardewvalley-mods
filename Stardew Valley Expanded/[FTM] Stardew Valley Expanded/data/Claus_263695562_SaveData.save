@@ -1,5 +1,5 @@
 {
-  "WeatherForYesterday": "Sunny",
+  "WeatherForYesterday": "Debris",
   "LNOSCounter": {
     "Beach forage area 3": 1,
     "Forest forage area 3": 1,
@@ -14,14 +14,14 @@
     "Forest West forage area 5": 1,
     "Forest West forage area 7": 1,
     "Forest West forage area 8": 1,
-    "Forest West forage area 9": 1,
+    "Forest West forage area 9": 3,
     "Forest West forage area 10": 1,
     "Aurora Vineyard Doll": 1,
     "Aurora Vineyard Newspaper": 1,
-    "Treasure Chest Spawns": 1,
+    "Treasure Chest Spawns": 3,
     "Forest Sword Spawn": 1,
     "Rapier Spawn": 1,
-    "Grandpa's Shed Logs": 1
+    "Grandpa's Shed Logs": 2
   },
   "ExistingObjectLocations": {},
   "SavedObjects": [
@@ -31,7 +31,7 @@
       "Tile": "15, 26",
       "Type": "Item",
       "ID": 49,
-      "DaysUntilExpire": 59,
+      "DaysUntilExpire": 57,
       "SpawnTime": 600,
       "ConfigItem": {
         "Category": "weapon",
@@ -45,7 +45,7 @@
       "Tile": "60, 148",
       "Type": "Item",
       "ID": 15,
-      "DaysUntilExpire": 59,
+      "DaysUntilExpire": 57,
       "SpawnTime": 600,
       "ConfigItem": {
         "Category": "weapon",
@@ -87,11 +87,33 @@
       "MonType": null
     },
     {
-      "MapName": "Beach",
+      "MapName": "ForestWest",
       "Name": null,
-      "Tile": "3, 6",
+      "Tile": "70, 26",
       "Type": "Forage",
-      "ID": 372,
+      "ID": 168,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "ForestWest",
+      "Name": null,
+      "Tile": "47, 27",
+      "Type": "Forage",
+      "ID": 168,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "ForestWest",
+      "Name": null,
+      "Tile": "64, 19",
+      "Type": "Forage",
+      "ID": 168,
       "DaysUntilExpire": 0,
       "SpawnTime": 600,
       "ConfigItem": null,
