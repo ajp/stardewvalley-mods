@@ -1,6 +1,101 @@
 {
   "WeatherForYesterday": "Sunny",
-  "LNOSCounter": {},
+  "LNOSCounter": {
+    "Beach forage area 3": 1,
+    "Forest forage area 3": 1,
+    "Summit forage area 2": 1,
+    "LostWoods forage area 1": 1,
+    "LostWoods forage area 2": 1,
+    "LostWoods forage area 3": 1,
+    "LostWoods forage area 4": 1,
+    "LostWoods forage area 5": 1,
+    "Forest West forage area 3": 1,
+    "Forest West forage area 4": 1,
+    "Forest West forage area 5": 1,
+    "Forest West forage area 7": 1,
+    "Forest West forage area 8": 1,
+    "Forest West forage area 9": 1,
+    "Forest West forage area 10": 1,
+    "Aurora Vineyard Doll": 1,
+    "Aurora Vineyard Newspaper": 1,
+    "Treasure Chest Spawns": 1,
+    "Forest Sword Spawn": 1,
+    "Rapier Spawn": 1,
+    "Grandpa's Shed Logs": 1
+  },
   "ExistingObjectLocations": {},
-  "SavedObjects": []
+  "SavedObjects": [
+    {
+      "MapName": "Railroad",
+      "Name": "weapon:Rapier",
+      "Tile": "15, 26",
+      "Type": "Item",
+      "ID": 49,
+      "DaysUntilExpire": 59,
+      "SpawnTime": 600,
+      "ConfigItem": {
+        "Category": "weapon",
+        "Name": "Rapier"
+      },
+      "MonType": null
+    },
+    {
+      "MapName": "ForestWest",
+      "Name": "weapon:Forest Sword",
+      "Tile": "60, 148",
+      "Type": "Item",
+      "ID": 15,
+      "DaysUntilExpire": 59,
+      "SpawnTime": 600,
+      "ConfigItem": {
+        "Category": "weapon",
+        "Name": "Forest Sword"
+      },
+      "MonType": null
+    },
+    {
+      "MapName": "ForestWest",
+      "Name": null,
+      "Tile": "61, 150",
+      "Type": "Forage",
+      "ID": 109,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "ForestWest",
+      "Name": null,
+      "Tile": "59, 147",
+      "Type": "Forage",
+      "ID": 109,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Summit",
+      "Name": null,
+      "Tile": "21, 25",
+      "Type": "Forage",
+      "ID": 109,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Beach",
+      "Name": null,
+      "Tile": "3, 6",
+      "Type": "Forage",
+      "ID": 372,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    }
+  ]
 }
