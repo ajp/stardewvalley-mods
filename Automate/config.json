@@ -5,6 +5,10 @@
     "ToggleOverlay": "U"
   },
   "ConnectorNames": [
+    "Gravel Path",
+    "Crystal Floor",
+    "Crystal Path",
+    "Wood Path",
     "Workbench"
   ],
   "ModCompatibility": {
